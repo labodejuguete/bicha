@@ -7,3 +7,7 @@ La BICHA es un circuito sonoro que cuenta con cuatro osciladores. Uno de ellos e
 
 Cuenta además con un buzzer para escucharla sin amplificar, pero también con salida de audio, entrada de SYNC/CV (0 a 5V) y salida de SYNC(5V) para sincronizarlo (master/slave) y controlarlo (macon otros dispositivos (Pocket Operator, Volcas, Beatstep Pro, Sintes modulares, circuitos DIY , etc…)
 
+Escucha "BICHA - El Álbum", descarga el manual y compra tu propia BICHA en el siguiente link:
+http://www.jcrowe.xyz/bicha
+
+
